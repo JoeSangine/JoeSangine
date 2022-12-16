@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joesangine" alt="joesangine" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Business Card Generator](https://github.com/TheWoodenMan/digital-business-card-app)
+- 🔭 I’m currently working on [Image-Generalization-Finder]([https://github.com/TheWoodenMan/digital-business-card-app](https://github.com/JoeSangine/image-generalization-finder))
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- 🌱 I’m currently learning **Typescript and Next.js**
 
 - 👯 I’m looking to collaborate on [Bitburner](https://github.com/bitburner-official/bitburner-beta)
 
-- 🤝 I’m looking for help with [Image Association Finder](https://github.com/JoeSangine/image-association-finder)
+- 🤝 I’m looking for help with [Image-Generalization-Finder]([https://github.com/JoeSangine/image-association-finder](https://github.com/JoeSangine/image-generalization-finder))
 
 - 👨‍💻 All of my projects are available at [https://josephanthonysangine.com/](https://josephanthonysangine.com/)
 
